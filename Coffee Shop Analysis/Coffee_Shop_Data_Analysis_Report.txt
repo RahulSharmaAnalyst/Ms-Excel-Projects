@@ -1,0 +1,40 @@
+COFFEE SHOP DATA ANALYSIS REPORT
+
+1. New Data Columns:
+   - A "Day of Week" column was added to the dataset, enabling analysis of sales trends based on days of the week.
+   - An "Hours" column was also introduced to facilitate hourly sales analysis.
+
+2. Peak Sales Times:
+   - The analysis of hourly data revealed that the peak sales occur between 8:00 AM and 10:00 AM.
+
+3. Sales by Days of the Week:
+   - Monday and Friday were identified as the highest-performing days in terms of sales.
+
+4. Monthly Revenue:
+   - The total revenue for each month is as follows:
+     - January: $81,587
+     - February: $76,152
+     - March: $98,771
+     - April: $118,868
+     - May: $156,680
+     - June: $166,439
+
+5. Sales by Location:
+   - Revenue distribution across locations is as follows:
+     - Astoria: $231,586
+     - Hell's Kitchen: $236,336
+     - Lower Manhattan: $230,574
+
+6. Average Metrics:
+   - The average number of orders per customer is 1.44.
+   - The average bill per customer is $4.68.
+
+7. Top-Selling Products:
+   - The best-selling products in terms of both quantity and revenue are:
+     1. Coffee
+     2. Tea
+     3. Bakery items
+
+8. Sales by Category and Product Type:
+   - The Coffee category, particularly the Barista Espresso product type, emerged as the most popular.
+   - The data highlights a direct correlation between high-performing product categories and their associated product types, contributing significantly to overall sales.
