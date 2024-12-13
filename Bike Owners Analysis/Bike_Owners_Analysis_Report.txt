@@ -1,0 +1,30 @@
+BIKE OWNERS DATA ANALYSIS REPORT
+
+1. Dataset Transformation:
+   - A new column, "Age Criteria," was introduced to analyze the age distribution (eg.Adult,Senior) among bike owners.
+
+2. Regional Analysis:
+   - The North America region has the highest concentration of bike owners compared to other regions.
+
+3. Marital Status Insights:
+   - Bachelors own more bikes than individuals who are married.
+
+4. Age Group Trends:
+   - Younger individuals (aged 25-50) are more likely to own bikes than seniors.
+
+5. Geographical Proximity:
+   - The majority of bike owners live within a 0-1 mile radius from the current state.
+
+6. Peak Age of Bike Ownership:
+   - Age 36 has the highest number of bike owners.
+
+7. Gender Comparison:
+   - Males show a higher enthusiasm for bike ownership compared to females.
+
+8. Key Performance Indicators (KPIs):
+   - The analysis covered data from 1,000 individuals.
+   - 481 individuals own at least one bike.
+   - 75% of the population analyzed are car owners.
+   - The average salary among bike owners is 4,868,857.
+
+This report provides an in-depth analysis of demographic and geographical factors influencing bike ownership, offering valuable insights for decision-making and targeted strategies.
