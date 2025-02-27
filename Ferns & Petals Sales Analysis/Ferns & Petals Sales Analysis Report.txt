@@ -1,0 +1,81 @@
+Ferns and Petals Sales Analysis - Detailed Report ->
+==================================================
+
+
+Executive Summary:
+
+This report provides a comprehensive analysis of the sales data for Ferns and Petals.
+It covers data integration from multiple sources (Customers, Orders, Products, and 
+additional pivot/dashboard information), comprehensive statistical insights, key trend
+analysis. Key focus areas include monthly sales performance, product revenue analysis, 
+and customer segmentation. The insights derived from this project are poised to inform 
+strategic decision-making, and improve overall business performance.
+
+
+Data Overview:
+
+1. Customer Data:
+   - Contains customer identifiers, names, contact details, and demographic information.
+     Useful for customer segmentation and geographic analysis.
+
+2. Order Data:
+   - Encompasses order specifics such as order IDs, customer and product relations, quantity,
+     order and delivery dates/times, pricing structures, and revenue figures. This data was
+     critical in understanding sales performance and trends.
+
+3. Product Data:
+   - Details on various products including product IDs, names, categories, pricing, and 
+     descriptive attributes. Essential for assessing popular items and revenue contributions.
+
+
+Data Integration:
+
+- The datasets were first integrated by merging Order data with Customer and Product data.
+- Date fields were standardized to datetime objects for accurate time series analysis.
+- A merged dataset enabled the creation of pivot insights and detailed revenue analysis.
+
+
+Key Analysis and Insights:
+
+1. Revenue Distribution:
+   - Statistical measures indicate a mean revenue of approximately 3520 INR per order, 
+     with revenue ranging from as low as 203 INR to a maximum of 9885 INR. This suggests
+     a wide variation in order sizes and revenue generation (see summary statistics).
+
+2. Order Timing and Trends:
+   - Dates and times from both order and delivery events were utilized to discern peak periods
+     and time-dependent performance trends.
+   - Analysis of month names and day names helps outline seasonal and weekly patterns.
+
+3. Product and Customer Correlations:
+   - Merging customer demographics with order and product data helped uncover market segments
+     and popular product profiles across different regions.
+
+4. Pivot and Dashboard Insights:
+   - Additional pivot table data provided clarity on aggregated metrics like monthly sales
+     performance, top-revenue generating products, and occasion-specific trends.
+
+
+Dashboard Overview:
+
+The final Excel dashboard encapsulates the analysis through interactive elements:
+
+1. Slicers and Timeline:-
+   Allowing users to dynamically filter data by date ranges, customer segments and product
+   categories.
+
+2. Interactive Charts:-
+   Visual representations of sales trends, product performance and customer segmentation,
+   facilitating an intuitive understanding of the data.
+
+
+Conclusion:
+
+The detailed analytical approach has revealed actionable insights spanning revenue trends,
+customer behaviours, and product performance. These insights are pivotal for strategic decision-making,
+optimizing marketing strategies, and effectively managing inventory empowers stakeholders to make 
+informed decisions, ultimately driving growth and profitability.
+
+
+Report Prepared by: Rahul Sharma
+Date: 2025-02-27
